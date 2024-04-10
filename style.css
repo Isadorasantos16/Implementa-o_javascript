@@ -1,10 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Tilt+Neon&display=swap')
 
 h1{
     font-family: "Tilt Neon", sans-serif;
 }
+
 body{
     background-color: rgb(255, 207, 207);
 color: rgb(255, 84, 84);
+font-family:font-family: "Karla", sans-serif; ;
 text-align: center;
+
 }
