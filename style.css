@@ -10,3 +10,7 @@ color: rgb(255, 84, 84);
 text-align: center;
 
 }
+
+h1 span{
+    color: crimson;
+}
